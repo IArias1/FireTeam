@@ -20,3 +20,5 @@
 Collaborators:
 Ignacio Arias
 Vy Lo
+
+Nathan Wesley
