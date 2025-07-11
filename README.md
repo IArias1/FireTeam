@@ -16,3 +16,7 @@
 ## Collaborators
 
 - Chapman
+=======
+Collaborators:
+Ignacio Arias
+Vy Lo
