@@ -11,10 +11,9 @@
 ## Collaborators
 
 * Chapman
-  =======
-  Collaborators:
-  Ignacio Arias
-  Vy Lo
-  Matthew Massey
-  Matthew Tedford
-  Nathan Wesley
+  * Collaborators:
+  * Ignacio Arias
+  * Vy Lo
+  * Matthew Massey
+  * Matthew Tedford
+  * Nathan Wesley
